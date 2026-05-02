@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="231" src="https://github.com/user-attachments/assets/fd7bb75f-f6af-478d-81bc-bde783ae48a6" /># MEV Bot v2026 
+# MEV Bot v2026 
 
 Deploy MEV Bot for real-time mempool monitoring, arbitrage, sandwich, and liquidation strategies with Flashbots/Jito bundle integration, low-latency RPC infrastructure, and risk-aware transaction routing. Advanced non-custodial automation layer for Ethereum, Solana, and multi-chain MEV capture.
 
